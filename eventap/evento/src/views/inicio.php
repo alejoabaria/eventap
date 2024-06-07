@@ -29,19 +29,19 @@ $stmt_usuario->close();
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>inicio</title>
+    <title>inqicio</title>
     <link rel="stylesheet" href="../CSS/inicio1.css">
     <link rel="stylesheet" href="../CSS/variables.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="../CSS/variables.css"> <!-- Archivo de variables CSS -->
-    <link rel="stylesheet" href="../CSS/inicio.css"> <!-- Archivo de variables CSS -->
+    <link rel="stylesheet" href="../CSS/variables.css"> 
+    <link rel="stylesheet" href="../CSS/inicio.css"> 
 
 </head>
 <body>
-
+putooooooooooo00000000000khkhhkh
     <div class="cont">
         <div class="lateral">
         <button id="light-theme-btn">Tema Claro</button>
